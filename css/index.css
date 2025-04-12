@@ -1,0 +1,49 @@
+section{
+
+    width: 30%;
+    height: 90vh;
+    background-color: #4fb0ff;
+    margin-left: 35%;
+    margin-top:10vh ;
+    border-radius: 90px;
+}
+
+section img {
+    width: 30%;
+margin-left: 35%;
+margin-top: 5vh;
+border-radius: 500px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 75%;
+    height: auto;
+    margin-left: 20%;
+    color: #fff;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: auto;
+    margin-left: 30%;
+    color: #fff;}
+
+    h3{
+     font-family: Arial, Helvetica, sans-serif;
+        width: 80%;
+        height: auto;
+        margin-left: 10%;
+        color: #000000 } 
+      
+
+    
+
+body{background: #1540ff;
+}
+
+section button{
+        width: 65%;
+        height: auto;
+        margin-left: 20%;
+}
+    
